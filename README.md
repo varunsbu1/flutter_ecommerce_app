@@ -1,16 +1,37 @@
-# shop_app
+# 🛍️ Flutter eCommerce App
 
-A new Flutter project.
+A simple and clean eCommerce mobile app built with **Flutter** and **Dart**. The app features product browsing, cart management, and a search function, using both **Riverpod** and **Provider** for state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home screen with product listing
+- 🔍 Product search functionality
+- 🛒 Add-to-cart and view cart
+- 🔄 State management using Riverpod and Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Tech Stack
+
+- **Flutter** (UI development)
+- **Dart** (Programming language)
+- **Riverpod** & **Provider** (for state management)
+
+---
+
+## ▶️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio / VS Code
+- Dart plugin enabled
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+ 
